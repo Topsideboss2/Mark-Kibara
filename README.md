@@ -4,7 +4,6 @@
  <img src="https://user-images.githubusercontent.com/45159366/114321716-048b1c00-9ad1-11eb-828d-a5a5f2a3c726.png">
   <br />
 </p>
-
 <h3 align="center">A Telecommunication and Information Engineering Student at Jomo Kenyatta University of Agriculture and Technology</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topsideboss2" alt="topsideboss2" /></a> </p>
