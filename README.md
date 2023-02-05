@@ -6,8 +6,6 @@
 </p>
 <h3 align="center">A Telecommunication and Information Engineering Student at Jomo Kenyatta University of Agriculture and Technology</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topsideboss2" alt="topsideboss2" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/muriifx" target="blank"><img src="https://img.shields.io/twitter/follow/muriifx?logo=twitter&style=for-the-badge" alt="muriifx" /></a> </p>
 
 - 🔭 I’m currently studying at JOMO KENYATTA UNIVERSITY OF AGRICULTURE AND TECHNOLOGY [Telecommunication and Information Engineering](http://www.jkuat.ac.ke/)
